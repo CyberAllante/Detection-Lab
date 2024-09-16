@@ -6,18 +6,18 @@ The Elastic SIEM Lab project aimed to set up a functioning Security Information 
 
 ### Skills Learned
 
--Deep understanding of SIEM concepts and practical application.
--Proficiency in configuring and utilizing the Elastic Stack for log collection and analysis.
--Ability to create Kibana dashboards to visualize network activity and detect anomalies.
--Familiarity with Filebeat and Winlogbeat for shipping logs from endpoints.
--Enhanced knowledge of log correlation, event analysis, and threat detection in a networked environment.
+- Deep understanding of SIEM concepts and practical application.
+- Proficiency in configuring and utilizing the Elastic Stack for log collection and analysis.
+- Ability to create Kibana dashboards to visualize network activity and detect anomalies.
+- Familiarity with Filebeat and Winlogbeat for shipping logs from endpoints.
+- Enhanced knowledge of log correlation, event analysis, and threat detection in a networked environment.
 
 ### Tools Used
 
--Elastic Stack (Elasticsearch, Logstash, Kibana) for real-time log ingestion, analysis, and visualization.
--Filebeat and Winlogbeat for collecting and forwarding logs to Elasticsearch.
--Kibana for creating custom dashboards and performing security event analysis.
--Ubuntu 20.04 as the base operating system for setting up the SIEM environment.
+- Elastic Stack (Elasticsearch, Logstash, Kibana) for real-time log ingestion, analysis, and visualization.
+- Filebeat and Winlogbeat for collecting and forwarding logs to Elasticsearch.
+- Kibana for creating custom dashboards and performing security event analysis.
+- Ubuntu 20.04 as the base operating system for setting up the SIEM environment.
 
 ## Steps
 Here are the key steps and insights from the lab:
